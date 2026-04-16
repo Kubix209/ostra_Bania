@@ -12,4 +12,7 @@ public class Programmer extends Human {
     public void sayHello() {
         System.out.println("Hello programmer ostra bania");
     }
+
+
+    //drugi komentarz
 }
